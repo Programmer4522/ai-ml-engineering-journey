@@ -3,6 +3,5 @@
   "pythonPlatform": "Windows",
   "typeCheckingMode": "basic",
   "include": ["tests", "src"],
-  "exclude": [".venv", "__pycache__"],
-  "pythonPath": "src"
+  "exclude": [".venv", "__pycache__"]
 }
