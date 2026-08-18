@@ -1,5 +1,3 @@
 {
-  "python.analysis.extraPaths": ["${workspaceFolder}/src"],
-  "python.linting.pylintPath": "pylint",
-  "python.defaultInterpreterPath": "${workspaceFolder}/venv/bin/python"
+  "python.analysis.extraPaths": ["${workspaceFolder}/src"]
 }
