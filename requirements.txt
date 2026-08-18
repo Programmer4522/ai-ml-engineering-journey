@@ -1,0 +1,51 @@
+# Core ML
+numpy
+pandas
+scikit-learn
+scipy
+matplotlib
+seaborn
+
+# Deep Learning
+torch
+torchvision
+torchaudio
+
+# NLP / LLMs
+transformers
+datasets
+tokenizers
+huggingface-hub
+sentence-transformers
+accelerate
+peft
+trl
+
+# RAG / Vector DBs
+faiss-cpu
+chromadb
+langchain
+langchain-community
+openai
+
+# API / Serving
+fastapi
+uvicorn[standard]
+pydantic
+
+# MLOps
+mlflow
+dvc
+
+# Data / Storage
+sqlalchemy
+psycopg2-binary
+redis
+
+# Dev / Testing
+pytest
+pytest-cov
+black
+ruff
+ipykernel
+jupyter

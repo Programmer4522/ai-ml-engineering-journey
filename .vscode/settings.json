@@ -1,0 +1,5 @@
+{
+  "python.analysis.extraPaths": [
+    "${workspaceFolder}/block_01_python_engineering/day_01/src"
+  ]
+}
