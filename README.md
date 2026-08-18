@@ -1,12 +1,10 @@
 # AI/ML Engineering Journey
 
-A 180-day, project-based journey from machine learning fundamentals
-to production AI/ML engineering.
+A 180-day, project-based journey from machine learning fundamentals to production AI/ML engineering.
 
 ## Goal
 
-Build the skills to design, implement, evaluate, deploy, and maintain
-real-world AI/ML systems.
+Build the skills to design, implement, evaluate, deploy, and maintain real-world AI/ML systems.
 
 ## Roadmap
 
@@ -29,8 +27,20 @@ Python • NumPy • Pandas • Scikit-learn • PyTorch • Hugging Face • SQ
 • FastAPI • Git/GitHub • Docker • MLflow • GitHub Actions • PostgreSQL
 • Redis • Vector Databases • AWS
 
+## Projects
+
+This repository contains learning work, experiments, notes, and project development. Polished portfolio projects may later move into dedicated repositories.
+
+## Learning Rules
+
+1. No blind tutorial copying.
+2. Every major topic must be implemented in code.
+3. Projects must include evaluation and clear documentation.
+4. Production-oriented projects should include tests, logging, configuration, reproducibility, and deployment.
+5. Use AI as a tutor, reviewer, and debugging aid—not as a substitute for understanding.
+
 ## Current Status
 
-Day: 1 / 180
-Current Block: Python for Serious ML Engineering
-Status: Starting
+**Day:** 1 / 180  
+**Current Block:** Python for Serious ML Engineering  
+**Status:** Starting
